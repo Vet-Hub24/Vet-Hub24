@@ -14,6 +14,9 @@ Full-stack travel application with an Express/Handlebars customer site, REST API
 ### [Weight Progress Tracker — Android Application](https://github.com/Vet-Hub24/weight-tracking-app)
 Android weight-tracking application using Java and SQLite with account creation/login, daily weight CRUD, goal tracking, persistent local data, and optional SMS goal alerts.
 
+### [Secure Audit Log — Rust](https://github.com/Vet-Hub24/secure-audit-log-rust)
+Tamper-evident audit-log coursework using Rust, SHA-256 hash chaining, automated tests, GitHub Actions, Docker security controls, and environment-based configuration.
+
 ### [3D OpenGL Scene](https://github.com/Vet-Hub24/CS-330)
 Interactive C++/OpenGL scene using transformations, textures, lighting, reusable 3D meshes, camera movement, and perspective/orthographic projection.
 
@@ -23,15 +26,12 @@ Introductory reinforcement-learning project in Python/Jupyter focused on impleme
 ### [MyCookBook — ASP.NET Core MVC & Web API](https://github.com/Vet-Hub24/CS320-Spring2025)
 Recipe-management coursework using C#, ASP.NET Core MVC, Bootstrap, JSON, REST-style API development, and Postman testing.
 
-### [DriverPass — Systems Analysis & Design](https://github.com/Vet-Hub24/CS255)
-Software-design portfolio work covering requirements analysis, user roles, workflows, security considerations, use cases, data-flow modeling, and system documentation.
-
 ## Technologies I've Worked With
 
 **Languages:** C#, C++, JavaScript, Python, Java, Rust, HTML, CSS  
 **Frameworks & Platforms:** ASP.NET Core, Express, Angular, Android, OpenGL, Bootstrap  
 **Data:** MongoDB, Mongoose, SQLite, Firebase/Firestore, REST APIs, JSON  
-**Tools:** Visual Studio, VS Code, Android Studio, GitHub, Postman, Jupyter Notebook
+**Tools:** Visual Studio, VS Code, Android Studio, GitHub, GitHub Actions, Postman, Jupyter Notebook, Docker
 
 ## Current Focus
 
