@@ -48,7 +48,9 @@ Recipe-management coursework using C#, ASP.NET Core MVC, Bootstrap, JSON, REST-s
 
 ## Contact
 
-**Email:** [Jake.Gagnon@snhu.edu](mailto:Jake.Gagnon@snhu.edu)
+**Email:** [Jake.Gagnon@snhu.edu](mailto:Jake.Gagnon@snhu.edu)  
+**LinkedIn:** [linkedin.com/in/jake-gagnon](https://www.linkedin.com/in/jake-gagnon/)  
+**GitHub:** [github.com/Vet-Hub24](https://github.com/Vet-Hub24)
 
 ---
 
