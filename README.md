@@ -6,6 +6,16 @@ I'm completing a **B.S. in Computer Science at Southern New Hampshire University
 
 Before returning to school, I served in the **United States Marine Corps** as an Infantry Team Leader and Squad Leader. That background shaped how I approach technical work: stay accountable, communicate clearly, keep learning, and work through problems one step at a time.
 
+## Featured Project — Knight School Chess Trainer
+
+**[Play Knight School — Live Website](https://vet-hub24.github.io/knight-school/)** · **[View Source Code](https://github.com/Vet-Hub24/knight-school)**
+
+A free, browser-based chess training application I am developing and improving as a hands-on software project. It combines interactive chessboards, guided opening studies, chess tactics and endgame lessons, game review, and a locally running Stockfish WebAssembly analysis engine. It also includes practice feedback, training progress saved in the browser, and iPhone home-screen support.
+
+**Technologies and concepts:** JavaScript, HTML, CSS, WebAssembly, browser storage, progressive web app features, GitHub Actions, automated tests, and GitHub Pages deployment.
+
+*This is an ongoing learning project. Features are tested and improved incrementally.*
+
 ## Featured Projects
 
 ### [Travlr Getaways — Full-Stack MEAN Application](https://github.com/Vet-Hub24/CS465-FullStack)
